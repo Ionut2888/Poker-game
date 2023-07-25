@@ -1,0 +1,3 @@
+D:/Facultate/Programming Project/poker/cmake-build-debug/CMakeFiles/poker.dir
+D:/Facultate/Programming Project/poker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Programming Project/poker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
