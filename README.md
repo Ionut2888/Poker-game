@@ -3,16 +3,15 @@ Welcome to the Poker Game project! This is a simple command-line-based poker gam
 
 Table of Contents
 
-1.Introduction
-2.Requirements
-3.How to Build
-4.How to Play
-5.Game Rules
-6.Implementation Details
-Contributing
-7.License
-
 1. Introduction
+2. Requirements
+3. How to Build
+4. How to Play
+5. Game Rules
+6. Implementation Details
+7. License
+
+1) Introduction
 This project is a C++ implementation of a Poker Game. It provides a command-line interface for playing poker against a dealer. The game uses a simplified set of rules, and players can place bets and try their luck against the dealer.
 
 2. Requirements
@@ -50,7 +49,7 @@ Deck: Represents a deck of cards, which can be shuffled and dealt.
 Player: Represents a player with a name and a hand of cards.
 PokerGame: Manages the game flow, dealing cards, evaluating hands, and determining the winner.
 
-7.License
+7. License
 This Poker Game project is protected by a custom license. All rights are reserved by Ionuț Gârdu, the author and owner of this code. This software is provided "as is" without any warranty. Unauthorized distribution, modification, or use of this code is strictly prohibited without the express written permission of Ionuț Gârdu.
 Redistribution and use in source and binary forms, with or without modification, are strictly prohibited without express written permission from Ionuț Gârdu.
 
